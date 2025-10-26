@@ -10,7 +10,7 @@ body {
     align-items: center;
     justify-content: center;
     font-family: "Poppins", serif;
-    background-color: #0b1522;
+    background-color: #4a1942;
 }
 
 .heart {
@@ -70,3 +70,4 @@ body {
     border-radius: 100px;
     box-shadow: 10px 10px 90px #f20044;
 }
+
